@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Mehedi Ahsan.</h1>
 
-![](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/274307798_1343853752726438_2716784627022726146_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHmxcSIYf8cAYP5vCgNyf219HcUaBK3Vvb0dxRoErdW9nz0TMT-QTu1Yt5o8Cq2Apy6Q8laIfeMbyCSV7cKtvw_&_nc_ohc=OdBy47rS8PAAX9rXusZ&_nc_ht=scontent.fdac19-1.fna&oh=00_AfAOZffttBG38oDUjNMh1yqMoIzqT_81obyIXJ_9QbayWg&oe=637B8F4D)
+<div align="center">
+<img src="[images/me.png](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/274307798_1343853752726438_2716784627022726146_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHmxcSIYf8cAYP5vCgNyf219HcUaBK3Vvb0dxRoErdW9nz0TMT-QTu1Yt5o8Cq2Apy6Q8laIfeMbyCSV7cKtvw_&_nc_ohc=OdBy47rS8PAAX9rXusZ&_nc_ht=scontent.fdac19-1.fna&oh=00_AfAOZffttBG38oDUjNMh1yqMoIzqT_81obyIXJ_9QbayWg&oe=637B8F4D)" alt="logo" width="200" height="auto" />
+</div>
 
 I'm a student of B.Sc in Computer Science and Engineering. I’m a passionate Full Stack Developer. I’m very much interested in new technologies and 
 problem solving.
