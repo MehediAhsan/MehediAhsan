@@ -36,11 +36,11 @@
 <br>
 
 <p id='stack' align='center'>
-    <img height='64' src='./images/technologies/html-5.png'>
-    <img height='64' src='./images/technologies/css-3.png'>
-    <img height='64' src='./images/technologies/js.png'>
-    <img height='64' src='./images/technologies/react.png'>
-    <img height='64' src='./images/technologies/node-js.png'>
+    <img height='64' src='./image/technologies/html-5.png'>
+    <img height='64' src='./image/technologies/css-3.png'>
+    <img height='64' src='./image/technologies/js.png'>
+    <img height='64' src='./image/technologies/react.png'>
+    <img height='64' src='./image/technologies/node-js.png'>
 </p>
 
 <br>
