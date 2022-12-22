@@ -1,22 +1,59 @@
-<h1 align="center">Hi, I'm Mehedi Ahsan.</h1>
+![I am a MERN Stack developer](./image/mehedi.png)
 
-<div align="center">
-<img src="https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-1/278736715_315769620663098_2258490005381360735_n.jpg?stp=dst-jpg_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=c6021c&_nc_ohc=gDlorD8p-GQAX_s91pT&_nc_ht=scontent.fdac19-1.fna&oh=00_AfDDd1povpSBRHfzVueUPkAQLx1kSTJ4LevVXmYbavX6EA&oe=63930948" alt="logo" width="200" height="auto" />
+<!-- connection section -->
+<div align='center'>
+<h1  style='color: #7895B2'> 📨 Connect with me</h1>
+
+<a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
+    <img src='./image/facebook.png'>
+</a>
+<a target='_blank' class='' href='https://linkedin.com/in/mehediahsan'>
+    <img src='./image/linkedin.png'>
+</a>
+<a target='_blank' class='' href='https://twitter.com/MehediAhsan_'>
+    <img src='./image/twitter.png'>
+</a>
 </div>
 
-I'm a student of B.Sc in Computer Science and Engineering. I’m a passionate Full Stack Developer. I’m very much interested in new technologies and 
-problem solving.
+<!-- overview section -->
+<br>
+<h1 align='center' style='color: #7895B2'> 🪟 Current overview</h1>
+<br>
 
-Skills:  HTML / CSS / JS / React/ Node JS/ Express JS/ MongoDB
+<a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
+### 🔎 I’m looking - For an intern.
 
+### 💥 I’m exploring - Three.js.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehediAhsan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehediahsan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehediahsan19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mehediahsan_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MehediAhsan_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCGN_2qWs3rzl-WbiMBlwnFA)  
+### 🧑‍🤝‍🧑 I’m eager - To collaborate on open source projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAhsan)](https://github.com/anuraghazra/github-readme-stats)
+### 💪 My motivation - Act what you want to be.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediAhsan&show_icons=true)  
+<br>
+<br>
+<h1 align='center' style='color: #7895B2'> 💻 Technologies</h1>
+<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehediAhsan)  
+<p id='stack' align='center'>
+    <img height='64' src='./images/technologies/html-5.png'>
+    <img height='64' src='./images/technologies/css-3.png'>
+    <img height='64' src='./images/technologies/js.png'>
+    <img height='64' src='./images/technologies/react.png'>
+    <img height='64' src='./images/technologies/node-js.png'>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/MehediAhsan)  
+<br>
+<h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1>
+<br>
+<p align='center'>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehediahsan&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+
+</p>
+<br>
+
+<br>
+<p align='center'><img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=mehediahsan&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=0d1117&icon_color=E8DFCA&text_color=AEBDCA&title_color=FB8C00" alt="mehediahsan" /></p>
+
+<a href="https://hits.sh/github.com/mehediahsan/"><img alt="Hits" src="https://hits.sh/github.com/mehediahsan.svg?style=for-the-badge"/></a>
+-->
