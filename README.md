@@ -2,9 +2,12 @@
 
 <!-- connection section -->
 <div align='center'>
-<h1  style='color: #7895B2'> 📨 Connect with me</h1>
+<h1  style='color: #7895B2'> Description </h1>
 
-<a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
+<p>Hello, I’m Mehedi. I am studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I am very much interested in technologies and also can adapt very faster.</p>
+
+
+<!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
     <img src='./image/facebook.png'>
 </a>
 <a target='_blank' class='' href='https://linkedin.com/in/mehediahsan'>
@@ -12,7 +15,7 @@
 </a>
 <a target='_blank' class='' href='https://twitter.com/MehediAhsan_'>
     <img src='./image/twitter.png'>
-</a>
+</a> -->
 </div>
 
 <!-- overview section -->
@@ -22,7 +25,7 @@
 
 <a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
-### 🔎 I’m looking - For an intern.
+### 🔎 I’m looking - For a job/intern in a reputed company.
 
 ### 💥 I’m exploring - Three.js.
 
@@ -41,6 +44,15 @@
     <img height='64' src='./image/technologies/js.png'>
     <img height='64' src='./image/technologies/react.png'>
     <img height='64' src='./image/technologies/node-js.png'>
+    <img height='64' src='./image/technologies/express-js.png'>
+    <img height='64' src='./image/technologies/mongodb.png'>
+    <img height='64' src='./image/technologies/tailwind-css.png'>
+    <img height='64' src='./image/technologies/bootstrap.png'>
+    <img height='64' src='./image/technologies/firebase.png'>
+    <img height='64' src='./image/technologies/typescript.png'>
+    <img height='64' src='./image/technologies/figma.png'>
+    <img height='64' src='./image/technologies/material-ui.png'>
+    <img height='64' src='./image/technologies/chakra-ui.png'>
 </p>
 
 <br>
