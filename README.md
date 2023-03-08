@@ -4,7 +4,7 @@
 <div align='center'>
 <h1  style='color: #7895B2'> Description </h1>
 
-<p>Hello, I’m Mehedi. I am studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I am very much interested in technologies and also can adapt very faster.</p>
+<h3>Hello, I’m Mehedi. I am studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I am very much interested in technologies and also can adapt very faster.</h3>
 
 
 <!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
@@ -39,20 +39,20 @@
 <br>
 
 <p id='stack' align='center'>
-    <img height='64' src='./image/technologies/html-5.png'>
-    <img height='64' src='./image/technologies/css-3.png'>
-    <img height='64' src='./image/technologies/js.png'>
-    <img height='64' src='./image/technologies/react.png'>
-    <img height='64' src='./image/technologies/node-js.png'>
-    <img height='64' src='./image/technologies/express-js.png'>
-    <img height='64' src='./image/technologies/mongodb.png'>
-    <img height='64' src='./image/technologies/tailwind-css.png'>
-    <img height='64' src='./image/technologies/bootstrap.png'>
-    <img height='64' src='./image/technologies/firebase.png'>
-    <img height='64' src='./image/technologies/typescript.png'>
-    <img height='64' src='./image/technologies/figma.png'>
-    <img height='64' src='./image/technologies/material-ui.png'>
-    <img height='64' src='./image/technologies/chakra-ui.png'>
+    <img height='50' src='./image/technologies/html-5.png'>
+    <img height='50' src='./image/technologies/css-3.png'>
+    <img height='50' src='./image/technologies/js.png'>
+    <img height='50' src='./image/technologies/react.png'>
+    <img height='50' src='./image/technologies/node-js.png'>
+    <img height='50' src='./image/technologies/express-js.png'>
+    <img height='50' src='./image/technologies/mongodb.png'>
+    <img height='50' src='./image/technologies/tailwind-css.png'>
+    <img height='50' src='./image/technologies/bootstrap.png'>
+    <img height='50' src='./image/technologies/firebase.png'>
+    <img height='50' src='./image/technologies/typescript.png'>
+    <img height='50' src='./image/technologies/figma.png'>
+    <img height='50' src='./image/technologies/material-ui.png'>
+    <img height='50' src='./image/technologies/chakra-ui.png'>
 </p>
 
 <br>
