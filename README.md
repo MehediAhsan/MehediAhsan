@@ -2,9 +2,9 @@
 
 <!-- connection section -->
 <div align='center'>
-<h1  style='color: #7895B2'> Description </h1>
+<h1  style='color: #7895B2'>✍🏻 Description </h1>
 
-<h3>Hello, I’m Mehedi. I am studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I am very much interested in technologies and also can adapt very faster.</h3>
+<p>Hello, I’m Mehedi. I'm from Dhaka, Bangladesh. I'm studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I'm very much interested in technologies and also can adapt very faster.</p>
 
 
 <!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
