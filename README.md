@@ -1,4 +1,4 @@
-![I am a MERN Stack developer](./image/mehedi.png)
+![I am a MERN Stack developer](./image/mehediahsan.jpg)
 
 <!-- connection section -->
 <div align='center'>
