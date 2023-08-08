@@ -2,9 +2,9 @@
 
 <!-- connection section -->
 <div align='center'>
-<h1  style='color: #7895B2'>✍🏻 Description </h1>
+<h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p>Hello, I’m Mehedi. I'm from Dhaka, Bangladesh. I'm studying B.Sc in Computer Science and Engineering. I’m a professional web developer with 2 years of experience. I have advanced skills in HTML5, CSS3, JavaScript, React js, firebase, Tailwind CSS, Bootstrap, REST API, Git, node js, express js, mongodb, responsive web designed. I’m a quick learner, consistent, and hardworking person. I'm very much interested in technologies and also can adapt very faster.</p>
+<p style='font-size: 15px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. I am from Dhaka, Bangladesh. I have recently completed my graduation B.SC in Computer Science and Engineering. I completed an internship and a Web Development course. Proficient in JavaScript, React, Node.js, Express.js and MongoDB. I am passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
 
 
 <!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
