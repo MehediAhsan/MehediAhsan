@@ -4,20 +4,11 @@
 <div align='center' style='color: #ffffff'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-## Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.
-<div style='font-size: 24px;'><a href="http://mehediahsan.netlify.app"> Portfolio</a> | <a href="https://www.linkedin.com/in/mehediahsan/">Linkedin</a> | <a href="https://www.facebook.com/MehediAhsanShow">Facebook</a></div>
+<p style='font-size: 17px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MehediAhsanShow) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mehediahsan) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehediahsan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehediahsan_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MehediAhsan_)
 </p>
 
-
-<!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
-    <img src='./image/facebook.png'>
-</a>
-<a target='_blank' class='' href='https://linkedin.com/in/mehediahsan'>
-    <img src='./image/linkedin.png'>
-</a>
-<a target='_blank' class='' href='https://twitter.com/MehediAhsan_'>
-    <img src='./image/twitter.png'>
-</a> -->
 </div>
 
 <!-- overview section -->
