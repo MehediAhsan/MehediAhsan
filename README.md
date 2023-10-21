@@ -4,7 +4,7 @@
 <div align='center'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p style='font-size: 17px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. I am from Dhaka, Bangladesh. I have recently completed my graduation B.SC in Computer Science and Engineering. I completed an internship and a Web Development course. Proficient in JavaScript, React, Node.js, Express.js and MongoDB. I am passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
+<p style='font-size: 18px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
 
 
 <!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
