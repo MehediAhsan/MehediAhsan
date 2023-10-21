@@ -1,10 +1,10 @@
 ![I am a MERN Stack developer](./image/mehediahsan.jpg)
 
 <!-- connection section -->
-<div align='center'>
+<div align='center' style='color: #ffffff'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p style='font-size: 24px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.
+## Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.
 <div style='font-size: 24px;'><a href="http://mehediahsan.netlify.app"> Portfolio</a> | <a href="https://www.linkedin.com/in/mehediahsan/">Linkedin</a> | <a href="https://www.facebook.com/MehediAhsanShow">Facebook</a></div>
 </p>
 
@@ -57,6 +57,17 @@
     <img height='48' src='./image/technologies/material-ui.png'>
     <img height='48' src='./image/technologies/chakra-ui.png'>
 </p>
+
+<!-- Youtube video here -->
+<br/>
+<h1  align='center'  style='color: #7895B2'> 📼 Recent Videos</h1>
+<ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
+  <li><a href="https://youtu.be/hPECq-UrS7I?si=ga1ndTwCdaetMSWA">Building a Modern Website with React, Tailwind CSS, and ChatGPT</a></li>
+  <li><a href="https://youtu.be/dS_QE0ltS1g?si=hFHg9iYef0RyocTv">Build a REST API with Node and Express js</a></li>
+  <li><a href="https://youtu.be/aqZU8729Mb0?si=Wohpwz8qn_oubyvI">HTML Tutorial for Beginners: HTML Crash Course</a></li>
+
+</ul>
+
 
 <br>
 <h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1>
