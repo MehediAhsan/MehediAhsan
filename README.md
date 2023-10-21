@@ -4,7 +4,9 @@
 <div align='center'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p style='font-size: 18px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
+<p style='font-size: 20px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.
+<div style='font-size: 20px;'><a href="http://mehediahsan.netlify.app"> Portfolio</a> | <a href="https://www.linkedin.com/in/mehediahsan/">Linkedin</a> | <a href="https://www.facebook.com/MehediAhsanShow">Facebook</a></div>
+</p>
 
 
 <!-- <a target='_blank' class='' href='https://facebook.com/mehediahsan19'>
@@ -20,14 +22,14 @@
 
 <!-- overview section -->
 <br>
-<h1 align='center' style='color: #7895B2'> 🪟 Current overview</h1>
+<h1 align='center' style='color: #7895B2'> 💫 Current overview</h1>
 <br>
 
 <a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
-### 🔎 I’m looking - For a job/intern in a reputed company.
+### 🔎 I’m looking - For a job/intern in a reputed company. 🔰[My resume](https://drive.google.com/file/d/1WEuqyNWP0S805IE4Sx71X4sxH8_-EPaP/view?usp=share_link)
 
-### 💥 I’m exploring - Three.js, AI.
+### 💥 I’m exploring - Three.js, AI, ML.
 
 ### 🧑‍🤝‍🧑 I’m eager - To collaborate on open source projects.
 
@@ -39,20 +41,21 @@
 <br>
 
 <p id='stack' align='center'>
-    <img height='50' src='./image/technologies/html-5.png'>
-    <img height='50' src='./image/technologies/css-3.png'>
-    <img height='50' src='./image/technologies/js.png'>
-    <img height='50' src='./image/technologies/react.png'>
-    <img height='50' src='./image/technologies/node-js.png'>
-    <img height='50' src='./image/technologies/express-js.png'>
-    <img height='50' src='./image/technologies/mongodb.png'>
-    <img height='50' src='./image/technologies/tailwind-css.png'>
-    <img height='50' src='./image/technologies/bootstrap.png'>
-    <img height='50' src='./image/technologies/firebase.png'>
-    <img height='50' src='./image/technologies/typescript.png'>
-    <img height='50' src='./image/technologies/figma.png'>
-    <img height='50' src='./image/technologies/material-ui.png'>
-    <img height='50' src='./image/technologies/chakra-ui.png'>
+    <img height='48' src='./image/technologies/html-5.png'>
+    <img height='48' src='./image/technologies/css-3.png'>
+    <img height='48' src='./image/technologies/js.png'>
+    <img height='48' src='./image/technologies/react.png'>
+    <img height='48' src='./image/technologies/node-js.png'>
+    <img height='48' src='./image/technologies/express-js.png'>
+    <img height='48' src='./image/technologies/nextjs.png'>
+    <img height='48' src='./image/technologies/mongodb.png'>
+    <img height='48' src='./image/technologies/tailwind-css.png'>
+    <img height='48' src='./image/technologies/bootstrap.png'>
+    <img height='48' src='./image/technologies/firebase.png'>
+    <img height='48' src='./image/technologies/typescript.png'>
+    <img height='48' src='./image/technologies/figma.png'>
+    <img height='48' src='./image/technologies/material-ui.png'>
+    <img height='48' src='./image/technologies/chakra-ui.png'>
 </p>
 
 <br>
