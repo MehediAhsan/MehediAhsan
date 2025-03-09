@@ -4,7 +4,11 @@
 <div align='center' style='color: #ffffff'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p style='font-size: 17px;'>Hello 👉 I’m Mehedi Ahsan, a dedicated and driven MERN Stack Web Developer. From 🌍Dhaka, Bangladesh. I have recently completed my 🎓graduation B.Sc in Computer Science and Engineering. Proficient in JavaScript, React, Next.js, Node.js, Express.js and MongoDB. Passionate about creating innovative and user-friendly web applications. Seeking a challenging position in a dynamic organization where I can utilize my expertise, collaborate with talented teams, and further enhance my career.</p>
+<p style='font-size: 17px;'>Hello! I’m Mehedi Ahsan, a dedicated and results-driven Software Engineer from Dhaka, Bangladesh.
+
+With around 2 years of experience in software development, I specialize in building scalable, high-performance applications. I have a B.Sc. in Computer Science and Engineering and expertise in JavaScript, React, Next.js, Node.js, Express.js, and MongoDB.
+
+Passionate about solving complex problems and creating user-centric solutions, I am seeking opportunities to leverage my skills, collaborate with talented teams, and continue growing in a dynamic, technology-driven environment.</p>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MehediAhsanShow) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mehediahsan) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehediahsan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehediahsan_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MehediAhsan_)
 </p>
@@ -18,13 +22,18 @@
 
 <a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
-### 🔎 I’m looking - For a job/intern in a reputed company. 🔰 [My Resume](https://drive.google.com/file/d/1WEuqyNWP0S805IE4Sx71X4sxH8_-EPaP/view?usp=share_link)
+### 🔎 Looking For  
+Seeking a **Software Engineer** role in a reputed company to leverage my skills and experience.  
+📄 [My Resume](https://drive.google.com/file/d/1WEuqyNWP0S805IE4Sx71X4sxH8_-EPaP/view?usp=share_link)  
 
-### 💥 I’m exploring - Three.js, AI, ML.
+### 🚀 Exploring  
+Currently diving into **Three.js, AI-powered UI/UX, and Web Performance Optimization** to build smarter and more interactive applications..  
 
-### 🧑‍🤝‍🧑 I’m eager - To collaborate on open source projects.
+### 🤝 Open to Collaborate  
+Excited to contribute to **open-source projects** and work with innovative developers.  
 
-### 💪 My motivation - Act what you want to be.
+### 💡 My Motivation  
+*"Act as if what you do makes a difference. It does."*  
 
 <br>
 <br>
