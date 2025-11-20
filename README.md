@@ -12,10 +12,9 @@ With **2+ years of experience** in full-stack development, I focus on building s
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@mehediahsan">YouTube</a> •
-  <a href="https://www.linkedin.com/in/mehediahsan/">LinkedIn</a> •
-  <a href="https://mehediahsan.vercel.app/">Portfolio</a> •
-  <a href="https://twitter.com/MehediAhsan_">Twitter</a> • <a href="https://www.facebook.com/MehediAhsanShow">Facebook</a> • <a href="https://www.youtube.com/@mehediahsan">YouTube</a> 
+  <a href="https://www.linkedin.com/in/mehediahsan/" target="_blank">LinkedIn</a> •
+  <a href="https://mehediahsan.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://twitter.com/MehediAhsan_" target="_blank">Twitter</a> • <a href="https://www.facebook.com/MehediAhsanShow" target="_blank">Facebook</a> • <a href="https://www.youtube.com/@mehediahsan" target="_blank">YouTube</a> 
 </p>
 
 </div>
@@ -25,7 +24,7 @@ With **2+ years of experience** in full-stack development, I focus on building s
 <h1 align='left' style='color: #7895B2'> 💫 Current overview</h1>
 <br>
 
-<a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
+<a href="https://app.daily.dev/mehediahsan" target="_blank"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
 ### 🔎 Looking For
 
