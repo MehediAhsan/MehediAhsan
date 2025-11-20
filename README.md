@@ -1,43 +1,52 @@
 ![I am a MERN Stack developer](./image/mehediahsan.jpg)
 
 <!-- connection section -->
-<div align='center' style='color: #ffffff'>
+<div align='left' style='color: #ffffff'>
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
-<p style='font-size: 17px;'>Hello! I’m Mehedi Ahsan, a dedicated and results-driven Software Engineer from Dhaka, Bangladesh.
+Hello! I’m **Mehedi Ahsan**, a passionate and results-driven **Software Engineer** from Dhaka, Bangladesh.
+With **2+ years of experience** in full-stack development, I focus on building scalable and efficient applications. I love solving real-world problems and crafting seamless digital experiences. I’m always open to opportunities where I can grow, contribute, and collaborate.
 
-With around 2 years of experience in software development, I specialize in building scalable, high-performance applications. I have a B.Sc. in Computer Science and Engineering and expertise in JavaScript, React, Next.js, Node.js, Express.js, and MongoDB.
+**Tech Focus:** JavaScript • React • Next.js • Node.js • Express.js • MongoDB
 
-Passionate about solving complex problems and creating user-centric solutions, I am seeking opportunities to leverage my skills, collaborate with talented teams, and continue growing in a dynamic, technology-driven environment.</p>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MehediAhsanShow) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mehediahsan) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehediahsan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehediahsan_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MehediAhsan_)
+
+<p align="center">
+  <a href="https://www.youtube.com/@mehediahsan">YouTube</a> •
+  <a href="https://www.linkedin.com/in/mehediahsan/">LinkedIn</a> •
+  <a href="https://mehediahsan.vercel.app/">Portfolio</a> •
+  <a href="https://twitter.com/MehediAhsan_">Twitter</a> • <a href="https://www.facebook.com/MehediAhsanShow">Facebook</a> • <a href="https://www.youtube.com/@mehediahsan">YouTube</a> 
 </p>
 
 </div>
 
 <!-- overview section -->
 <br>
-<h1 align='center' style='color: #7895B2'> 💫 Current overview</h1>
+<h1 align='left' style='color: #7895B2'> 💫 Current overview</h1>
 <br>
 
 <a href="https://app.daily.dev/mehediahsan"><img align='right' src="https://api.daily.dev/devcards/b6137fc913c54823977299a3891544ac.png?r=kuv" width="150" align='center' alt="Mehedi Ahsan's Dev Card"/></a>
 
-### 🔎 Looking For  
+### 🔎 Looking For
+
 Seeking a **Software Engineer** role in a reputed company to leverage my skills and experience.  
-📄 [My Resume](https://drive.google.com/file/d/1WEuqyNWP0S805IE4Sx71X4sxH8_-EPaP/view?usp=share_link)  
+📄 [My Resume](https://drive.google.com/file/d/1RZD9s02-2mGVW4ebX07avbt5a9IMg70N/view?usp=drive_link)
 
-### 🚀 Exploring  
-Currently diving into **Three.js, AI-powered UI/UX, and Web Performance Optimization** to build smarter and more interactive applications..  
+### 🚀 Exploring
 
-### 🤝 Open to Collaborate  
-Excited to contribute to **open-source projects** and work with innovative developers.  
+Currently diving into **Three.js, AI-powered UI/UX, and Web Performance Optimization** to build smarter and more interactive applications..
 
-### 💡 My Motivation  
-*"Act as if what you do makes a difference. It does."*  
+### 🤝 Open to Collaborate
+
+Excited to contribute to **open-source projects** and work with innovative developers.
+
+### 💡 My Motivation
+
+_"Act as if what you do makes a difference. It does."_
 
 <br>
 <br>
-<h1 align='center' style='color: #7895B2'> 💻 Technologies</h1>
+<h1 align='left' style='color: #7895B2'> 💻 Technologies</h1>
 <br>
 
 <p id='stack' align='center'>
@@ -60,7 +69,7 @@ Excited to contribute to **open-source projects** and work with innovative devel
 
 <!-- Youtube video here -->
 <br/>
-<h1  align='center'  style='color: #7895B2'> 📼 Recent Videos</h1>
+<h1  align='left'  style='color: #7895B2'> 📼 Recent Videos</h1>
 <ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
   <li><a href="https://youtu.be/hPECq-UrS7I?si=ga1ndTwCdaetMSWA">Building a Modern Website with React, Tailwind CSS, and ChatGPT</a></li>
   <li><a href="https://youtu.be/dS_QE0ltS1g?si=hFHg9iYef0RyocTv">Build a REST API with Node and Express js</a></li>
@@ -68,9 +77,8 @@ Excited to contribute to **open-source projects** and work with innovative devel
 
 </ul>
 
-
 <br>
-<h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1>
+<h1 align='left' style='color: #7895B2'> 🔥 My streak stats and more</h1>
 <br>
 <p align='center'>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehediahsan&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
