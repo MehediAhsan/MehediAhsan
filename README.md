@@ -5,7 +5,7 @@
 <h1  style='color: #7895B2'>✍🏻 About Me </h1>
 
 Hello! I’m **Mehedi Ahsan**, a passionate and results-driven **Software Engineer** from Dhaka, Bangladesh.
-With **2+ years of experience** in full-stack development, I focus on building scalable and efficient applications. I love solving real-world problems and crafting seamless digital experiences. I’m always open to opportunities where I can grow, contribute, and collaborate.
+With **3+ years of experience** in full-stack development, I focus on building scalable and efficient applications. I love solving real-world problems and crafting seamless digital experiences. I’m always open to opportunities where I can grow, contribute, and collaborate.
 
 **Tech Focus:** JavaScript • React • Next.js • Node.js • Express.js • MongoDB
 
